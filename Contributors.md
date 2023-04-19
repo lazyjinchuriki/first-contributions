@@ -42,6 +42,7 @@
 - [Natasha Mundada]()
 - [Son Thanh Tran]
 - [notdncly]()
+- [lazyjinchuriki] {https://github.com/lazyjinchuriki}
 - [Hung Cai](https://github.com/Pro-vo-ker)
 - [Joel Lozano](https://github.com/joel-lozano)
 - [Shibu Gope](https://github.com/shibu-g)
